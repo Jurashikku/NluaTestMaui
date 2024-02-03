@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NluaTestMaui", "NluaTestMaui\NluaTestMaui.csproj", "{33ACC52C-5AD4-4F7C-8AE5-1CABDB16972C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net7NluaLib", "Net7NluaLib\Net7NluaLib.csproj", "{3FAC2FA8-7906-4EB0-8F75-45CD5138804C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiNluaLib", "MauiNluaLib\MauiNluaLib.csproj", "{BC6D2A43-717D-4FBD-8CB0-5D4F9889D586}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33ACC52C-5AD4-4F7C-8AE5-1CABDB16972C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ACC52C-5AD4-4F7C-8AE5-1CABDB16972C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ACC52C-5AD4-4F7C-8AE5-1CABDB16972C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ACC52C-5AD4-4F7C-8AE5-1CABDB16972C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAC2FA8-7906-4EB0-8F75-45CD5138804C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAC2FA8-7906-4EB0-8F75-45CD5138804C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAC2FA8-7906-4EB0-8F75-45CD5138804C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAC2FA8-7906-4EB0-8F75-45CD5138804C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC6D2A43-717D-4FBD-8CB0-5D4F9889D586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6D2A43-717D-4FBD-8CB0-5D4F9889D586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6D2A43-717D-4FBD-8CB0-5D4F9889D586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6D2A43-717D-4FBD-8CB0-5D4F9889D586}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E070DDD-8AC0-4733-870D-03E5B67FBC45}
+	EndGlobalSection
+EndGlobal
